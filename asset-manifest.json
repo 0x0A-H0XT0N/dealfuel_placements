@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dealfuel_placements/dealfuel-calculator/static/css/main.f855e6bc.css",
-    "main.js": "/dealfuel_placements/dealfuel-calculator/static/js/main.9e135221.js",
+    "main.js": "/dealfuel_placements/dealfuel-calculator/static/js/main.af5fac17.js",
     "static/js/453.003ee295.chunk.js": "/dealfuel_placements/dealfuel-calculator/static/js/453.003ee295.chunk.js",
     "index.html": "/dealfuel_placements/dealfuel-calculator/index.html",
     "main.f855e6bc.css.map": "/dealfuel_placements/dealfuel-calculator/static/css/main.f855e6bc.css.map",
-    "main.9e135221.js.map": "/dealfuel_placements/dealfuel-calculator/static/js/main.9e135221.js.map",
+    "main.af5fac17.js.map": "/dealfuel_placements/dealfuel-calculator/static/js/main.af5fac17.js.map",
     "453.003ee295.chunk.js.map": "/dealfuel_placements/dealfuel-calculator/static/js/453.003ee295.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.9e135221.js"
+    "static/js/main.af5fac17.js"
   ]
 }
